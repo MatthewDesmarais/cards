@@ -16,6 +16,10 @@ html {
   text-align: center;
 }
 
+.cards img {
+  text-align: center;
+}
+
 .cards li {
   display: inline-block;
   margin: 0 .5em 1em;
@@ -24,13 +28,13 @@ html {
   background-color: #fff;
   border: 3px solid #e2e2e2;
   border-radius: 10px;
-  text-align: center;
+  text-align: left;
 }
 
 .cards strong {
   display: block;
   margin-bottom: 1rem;
-
+  text-align: left;
   font-size: 1.125rem;
 }
 
